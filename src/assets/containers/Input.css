@@ -1,0 +1,13 @@
+.inpt{
+    margin-bottom: 2%;
+    padding: 1rem;
+    width: 35vw;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(167, 167, 167);
+    text-align: center;
+    box-shadow: 5px 5px 10px black;
+    font-size: 1rem;
+    font-weight: bold;
+    color: rgb(68, 68, 68);
+}
